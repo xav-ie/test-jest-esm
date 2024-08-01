@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "NodeNext",
+    "target": "ESNext",
+    "moduleResolution": "NodeNext",
+    "noImplicitReturns": true,
+    "outDir": "./dist",
+    "strictNullChecks": true,
+    "incremental": true,
+    "esModuleInterop": true,
+    "declaration": true,
+    "declarationMap": true,
+    "rootDir": "./src"
+  },
+  "compileOnSave": true,
+  "include": ["src"],
+  "exclude": []
+}
